@@ -1,0 +1,24 @@
+# Jupyter & Jupytext
+notebook
+jupytext==1.16.7
+ipython
+ipykernel
+ipython-genutils
+
+# CrewAI core
+crewai
+crewai-tools
+
+# Web scraping
+requests
+beautifulsoup4
+
+# Ambiente e utilitários
+python-dotenv
+openai
+
+# Display (IPython display utilities)
+IPython
+
+# Suporte a notebooks markdown
+mistune>=2.0.0
